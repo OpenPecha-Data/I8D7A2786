@@ -5,11 +5,13 @@ source_metadata:
   title: དཔལ་ས་སྐྱའི་འཁོན་གདུང་འཇིག་མེད་རྡོ་རྗེ་རིན་པོ་ཆེའི་ཞབས་བརྟན་རྡོ་རྗེའི་སྒྲ་དབྱངས་སོགས།
   author: ''
   volumes:
-    b68b310d811d49a98a644c07f30158f5:
+    f937e352e7de44bd83ab10251bf56308:
       image_group_id: I1KG17989
-      title: ''
+      title: Volume 1 of dpal sa skya'i 'khon gdung 'jig med rdo rje rin po che'i
+        zhabs brtan rdo rje'i sgra dbyangs/
       volume_number: 1
       total_pages: 104
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་ས་སྐྱའི་འཁོན་གདུང་འཇིག་མེད་རྡོ་རྗེ་རིན་པོ་ཆེའི་ཞབས་བརྟན་རྡོ་རྗེའི་སྒྲ་དབྱངས་སོགས།
   author: ''
